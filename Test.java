@@ -1,2 +1,4 @@
 System.out.println("Hello wrold!");
-sout("Œ“ «–Ï÷ﬁÀß")
+System.out.println("Hello wrold2!");
+System.out.println("Hello wrold2!");
+System.out.println("Hello wrold2!");
